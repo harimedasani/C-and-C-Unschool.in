@@ -11,4 +11,5 @@ int main()
 	printf("Product of %d and %d is %d \n",a,b,(a*b));
 	printf("On dividing %d by %d quotient is %d \n",a,b,(a/b));
 	printf("On dividing %d by %d remainder is %d \n",a,b,(a%b));
+	return 0;
 }
