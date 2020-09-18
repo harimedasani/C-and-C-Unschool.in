@@ -15,7 +15,8 @@ int main(){
 		case 3:printf("Player Choose Scissor\n");
 				break;
 		case 4:exit(0);
-		default:printf("Enter the Valid One\n");
+		default:printf("Enter the Valid One\n"); 
+				break;
 	}
 	int computer=rand()%3+1;
 		if(choice==1){
